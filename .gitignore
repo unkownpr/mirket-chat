@@ -22,6 +22,7 @@ target/
 .env.web
 secrets.env
 !.env.example
+!.env.web.example
 !secrets.env.example
 
 # Self-hosted runtime data
