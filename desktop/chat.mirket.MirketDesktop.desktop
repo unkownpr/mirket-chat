@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Mirket
+Comment=Open source, user-first chat platform
+Exec=mirket-desktop
+Terminal=false
+Type=Application
+Icon=chat.mirket.MirketDesktop
+Categories=Network;InstantMessaging
+StartupWMClass=mirket-desktop
+X-Desktop-File-Install-Version=0.26
+X-Flatpak=chat.mirket.MirketDesktop
